@@ -1,0 +1,9 @@
+    1  git tag
+    2  git log --pretty=oneline --graph 
+    3  git tag -a v0.1 -m 'ate a aula 5'
+    4  git log --pretty=oneline --graph 
+    5  git checkout master 
+    6  git log --pretty=oneline --graph 
+    7  git rebase feature 
+    8  git log --pretty=oneline --graph 
+    9  history > aula_6.txt
